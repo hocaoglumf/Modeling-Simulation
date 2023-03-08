@@ -1,0 +1,4 @@
+:-dynamic sebze/1.
+sebze(lahana).
+sebze(brokoli).
+sebze(patlican).
